@@ -1,7 +1,7 @@
 riskestimate
 ============
 
-Monte Carlo generation to estimate future risk.
+Monte Carlo generation to estimate risk.
 
 For an example of output, please see:
 
